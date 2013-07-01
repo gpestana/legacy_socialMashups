@@ -4,6 +4,7 @@ URL: http://group03.naf.cs.hut.fi/
 
 Technologies:
 - Javascript
+- PHP
 - REST
 - Facebook APIs (FB Graph, Canvas, FQL)
 - Twitter APIs
