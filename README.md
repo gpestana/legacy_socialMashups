@@ -4,7 +4,7 @@ URL: http://group03.naf.cs.hut.fi/
 
 Technologies:
 - Javascript
-- REST API
+- REST
 - Facebook APIs (FB Graph, Canvas, FQL)
 - Twitter APIs
 - Google Calendar API + OAuth
